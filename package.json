@@ -1,0 +1,13 @@
+{
+  "name": "flowtr-app",
+  "version": "1.0.0",
+  "description": "flowtr desktop edition",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Creepinson",
+  "dependencies": {
+    "electron": "^5.0.4"
+  }
+}
