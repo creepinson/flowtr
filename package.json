@@ -8,6 +8,6 @@
   },
   "author": "Creepinson",
   "dependencies": {
-    "electron": "^5.0.4"
+    "electron": "^9.4.0"
   }
 }
